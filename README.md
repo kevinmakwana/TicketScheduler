@@ -9,7 +9,7 @@ Laravel 8.x
 PHP 7.4.x  
 MYSQL 8.x
 
-##Create Database first and setup your .env file
+###Create Database first and setup your .env file
 ### Run following commands
 
 **1.** -> composer install
